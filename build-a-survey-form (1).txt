@@ -1,4 +1,4 @@
-
+** Start of HTML **
 <!DOCTYPE html>
 <html>
   <head>
@@ -230,8 +230,9 @@
   </body>
 </html>
 
+** End of HTML **
 
-
+** Start of CSS **
 
 @import url('https://fonts.googleapis.com/css?family=Poppins:200i,400&display=swap');
 
@@ -416,5 +417,5 @@ form {
 }
 
 
-** end of undefined **
+** end of css **
 
